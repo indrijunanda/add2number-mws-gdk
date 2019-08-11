@@ -5,13 +5,9 @@
 
 Mobile Web Specialist - Google Developer Kejar 2018
 
-Regional Batam
-
-by Inixindo
-
 -------------------
 
-**[DEMO](https://indrijunanda.github.io/add2number-mws-gdk/)**
+**[DEMO](https://indrijunanda.github.io/add2number-simple/)**
 
 -------------------
 
