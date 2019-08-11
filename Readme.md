@@ -7,6 +7,8 @@ Mobile Web Specialist - Google Developer Kejar 2018
 
 Regional Batam
 
+by Inixindo
+
 -------------------
 
 ### Cheers Up!
